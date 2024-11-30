@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">DarFit</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_fragment1_1">Встречайте тренера</string>
+    <string name="hello_fragment1_2">Любите себя</string>
+    <string name="hello_fragment2_1">План тренировок для вас</string>
+    <string name="hello_fragment2_2">Станьте лучше</string>
+
+    <string name="hello_fragment3_1">ТРЕНИРОВКА</string>
+    <string name="hello_fragment3_2">КЛЮЧ К УСПЕХУ!</string>
+    <string name="hello_fragment3_3">УЖЕ ЕСТЬ АККАУНТ?</string>
+
+    <string name="hello_fragment3_4">НЕТ АККАУНТА?</string>
+
+    <string name="registr_1">Скажи нам о себе</string>
+    <string name="registr_1_1">Укажи свой пол чтобы мы могли подобрать тебе правильный план тренировок</string>
+    <string name="registr_1_2">Дальше ⋙</string>
+
+    <string name="goLogin">ВОЙТИ</string>
+
+    <string name="registr_2">Сколько вам лет?</string>
+    <string name="registr_2_1">Возраст также влияет на план тренировок</string>
+    <string name="registr_2_2">Дата рождения</string>
+
+    <string name="registr_3">Сколько вы весите?</string>
+    <string name="registr_3_1">В зависимости от веса мы подбираем нужную вам программу</string>
+    <string name="registr_3_2">Вес</string>
+    <string name="registr_3_3">Желаемый вес</string>
+    <string name="registr_3_4">Цель</string>
+
+
+    <string name="registr_4">Ваш уровень подготовки?</string>
+    <string name="registr_4_1">Нагрузка на ваш организм должна быть равномерной, поэтому укажите свой уровень</string>
+    <string name="registr_4_2">Продолжить регистрацию</string>
+
+    <string name="registr_5">Какой у вас рост?</string>
+    <string name="registr_5_1">Чтобы верно рассчитать каллории и нагрузку также нужно указать рост</string>
+    <string name="registr_5_2">Рост</string>
+
+
+    <string name="auth_registration">РЕГИСТРАЦИЯ</string>
+    <string name="auth_registration_1">Полное имя</string>
+    <string name="auth_registration_2">Почта</string>
+    <string name="auth_registration_3">Пароль</string>
+    <string name="auth_registration_4">НАЧАТЬ</string>
+
+
+    <string name="auth_login">ВХОД</string>
+    <string name="auth_login1">ВОЙТИ</string>
+
+    <string name="main_helloUser">Привет,</string>
+    <string name="main_yourTrainPlanToday">Твоя тренировка на сегодня</string>
+    <string name="main_stregthButton">СИЛОВАЯ</string>
+    <string name="main_cardioButton">КАРДИО</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>

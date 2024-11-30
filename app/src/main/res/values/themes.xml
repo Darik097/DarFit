@@ -1,0 +1,15 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme -->
+    <style name="Base.Theme.DarFit" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+
+    <style name="Theme.DarFit" parent="Base.Theme.DarFit" />
+
+    <!-- Define the overlay style with a valid parent theme -->
+    <style name="ThemeOverlay.DarFit.FullscreenContainer" parent="ThemeOverlay.Material3">
+        <item name="fullscreenBackgroundColor">@color/black</item>
+        <item name="fullscreenTextColor">@color/black_overlay</item>
+    </style>
+</resources>

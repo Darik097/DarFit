@@ -1,0 +1,4 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="oval"> <!-- Устанавливаем форму как овальную -->
+    <solid android:color="@color/textColorLightGray" /> <!-- Цвет фона по умолчанию -->
+</shape>
